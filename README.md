@@ -8,6 +8,6 @@ in your `package.json`:
 
 ```json
 "resolutions": {
-  "download-file-sync": "@exodus/you-shall-not-pass",
+  "download-file-sync": "https://github.com/ExodusMovement/you-shall-not-pass.git"
 }
 ```
